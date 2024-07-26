@@ -2,7 +2,7 @@
 
 ## Features
 ![1](https://github.com/user-attachments/assets/1abc9fa3-7930-47c6-ab2e-cf5d83f2e1ce)
-![2](https://github.com/user-attachments/assets/61ef808e-62c6-4866-8ba2-36a95a33f3c2)
+![2](https://github.com/user-attachments/assets/c1f8c9ec-71f9-4ac3-8fdc-fca00d1a704b)
 
 
 # Getting Started with Create React App
