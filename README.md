@@ -5,12 +5,6 @@
 ![2](https://github.com/user-attachments/assets/c1f8c9ec-71f9-4ac3-8fdc-fca00d1a704b)
 
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
 In the project directory, you can run:
 
 ### `npm start`
