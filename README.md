@@ -2,8 +2,8 @@
 #  <h1>Live Link <a href="https://text-utill-app-two.vercel.app/"><b>Click here</b> </a></h1>
 
 ## Features
-![1](https://github.com/user-attachments/assets/1abc9fa3-7930-47c6-ab2e-cf5d83f2e1ce)
-![2](https://github.com/user-attachments/assets/c1f8c9ec-71f9-4ac3-8fdc-fca00d1a704b)
+![1](https://github.com/user-attachments/assets/4070f0a2-cc96-4b17-b183-da8758c99759)
+![2](https://github.com/user-attachments/assets/a93213bb-842b-45ab-bc62-813369e9faf7)
 
 
 In the project directory, you can run:
